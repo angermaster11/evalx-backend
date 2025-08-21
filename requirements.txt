@@ -21,3 +21,4 @@ langgraph
 langchain-community
 langchain-core
 python-pptx
+cloudinary
